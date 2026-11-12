@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaFacebookF, FaInstagram, FaLinkedinIn, FaReact, FaNodeJs } from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 import { SiAutodesk, SiAdobephotoshop, SiCanva, SiGoogleclassroom } from "react-icons/si";;
 const Media = () => {
   return (
@@ -32,26 +32,7 @@ const Media = () => {
           <h2 className="text-base uppercase font-titleFont mt-3 mb-4 px-4">
             BEST SKILL ON
           </h2>
-          {/* <div className="flex gap-2">
-            <span className="bannerIcon">
-              <FaReact />
-            </span>
-            <span className="bannerIcon">
-              <SiJavascript />
-            </span>
-            <span className="bannerIcon">
-              <SiHtml5 />
-            </span>
-            <span className="bannerIcon">
-              <SiCss3 />
-            </span>
-            <span className="bannerIcon">
-              <SiMongodb/>
-            </span>
-            <span className="bannerIcon">
-              <FaNodeJs/>
-            </span>
-          </div> */}
+          
 <div>
   <h2 className="text-base uppercase font-titleFont mt-3 mb-4 px-4">
   </h2>
